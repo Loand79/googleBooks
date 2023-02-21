@@ -1,0 +1,12 @@
+.book {
+    min-width: none;
+    width: 180px;
+    max-height: 420px;
+    background: coral;
+    text-align: center;
+    margin: 5px 10px 5px 0
+}
+
+.img {
+    width: 95%;
+}

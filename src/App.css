@@ -1,5 +1,4 @@
 .book_list {
   display: flex;
   flex-flow: row wrap;
-  gap: 40px;
 }
